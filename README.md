@@ -12,7 +12,7 @@
 
 **Usage -**
 ```
-git clone https://github.com/Raj140503/Daily_weather_classification_using_Decision_tree.ipynb
+git clone https://github.com/Raj140503/Daily_weather_Classification_using_Decision_tree.ipynb
 ```
 
 **2. Avito Classification -**
@@ -29,5 +29,5 @@ git clone https://github.com/Raj140503/Daily_weather_classification_using_Decisi
 
 **Usage -**
 ```
-git clone https://github.com/Raj140503/Avito_classification_using_Decision_tree.ipynb
+git clone https://github.com/Raj140503/Avito_Classification_using_Decision_tree.ipynb
 ```
